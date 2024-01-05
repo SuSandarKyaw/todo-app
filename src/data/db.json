@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 0.09722683852307745,
+      "title": "learn programming",
+      "completed": true
+    },
+    {
+      "id": 0.4473010331169962,
+      "title": "memorize English vocab",
+      "completed": false
+    },
+    {
+      "id": 0.6027568422536473,
+      "title": "do a project",
+      "completed": true
+    }
+  ]
+}
